@@ -56,6 +56,9 @@ cd laravel-chatgpt
 # نصب وابستگی‌های بک‌اند
 composer install
 
+# نصب وابستگی‌های فرانت‌اند (Vue + Vite)
+npm install
+
 # نصب وابستگی‌های فرانت‌اند
 npm install && npm run build
 
