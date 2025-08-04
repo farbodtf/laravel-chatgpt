@@ -59,9 +59,6 @@ composer install
 # نصب وابستگی‌های فرانت‌اند (Vue + Vite)
 npm install
 
-# نصب وابستگی‌های فرانت‌اند
-npm install && npm run build
-
 # تنظیم فایل env
 cp .env.example .env
 php artisan key:generate
@@ -94,7 +91,7 @@ npm run dev
 
 | بخش       | تکنولوژی‌ها                         |
 |-----------|-------------------------------------|
-| بک‌اند    | Laravel 11+, OpenAI SDK             |
+| بک‌اند    | Laravel 12+, OpenAI SDK             |
 | فرانت‌اند | Vue.js 3, Inertia.js, Tailwind CSS  |
 | دیتابیس   | MySQL                               |
 
